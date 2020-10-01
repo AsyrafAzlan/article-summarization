@@ -1,7 +1,7 @@
 # article-summarization
 In short, sample article is summarized using TF-IDF and Hopfield Network.
 
-This project is divided into 3 parts
+This project is divided into 3 parts:
 <br /> Part 1:  Finding TF-IDF score of each word
 <br /> Part 2:  Implementation of Hopfield Network to find the most important words
 <br /> Part 3:  Summarization by ranking each sentences based on Hopfield network outputs.
